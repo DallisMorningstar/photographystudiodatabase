@@ -6,3 +6,6 @@ Included is an ER diagram of a simplified database used to contain client data a
 
 ## Hardware
 Included is a list of simple hardware in order to execute this database's functionality 
+
+## Proposal
+Included is a written proposal for the reasoning behind the database
